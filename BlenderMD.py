@@ -5,7 +5,7 @@ bl_info = {
     "blender": (2, 71, 0),
     "location": "File > Export > Gamecube/Wii model (.bmd)",
     "description": "This script allows you do export bmd files quickly using SuperBMD directly from blender",
-    "warning": "Might break, doing this mostly for my own convinience",
+    "warning": "Will overwrite an fbx file of the same name as the bmd that you are exporting",
     "category": "Import-Export"
 }
 
